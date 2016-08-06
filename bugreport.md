@@ -6,9 +6,9 @@
 ### Steps to reproduce 
 
 1. 
-2.
-3.  
-4. 
+1. 
+1.  
+1. 
 
 ### Results expected 
 * 
